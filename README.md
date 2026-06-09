@@ -8,7 +8,7 @@ I design and develop AI-powered applications using Large Language Models, Retrie
 
 My focus is building practical AI systems that combine modern LLMs with business processes, automation, analytics, and intelligent user interactions.
 
-#Main interests:
+## Main interests:
 
 Large Language Models (LLM)
 
@@ -30,7 +30,7 @@ AI Product Prototyping
 
 ## Tech stack
 
-# AI & Machine Learning
+### AI & Machine Learning
 OpenAI API
 
 Gemini API
@@ -45,7 +45,7 @@ RAG Architectures
 
 Multi-Agent Systems
 
-# Backend Development
+### Backend Development
 Python
 
 FastAPI
@@ -56,7 +56,7 @@ PostgreSQL
 
 REST API
 
-# AI Automation & Integration
+### AI Automation & Integration
 n8n
 
 Telegram Bot API
@@ -65,7 +65,7 @@ RSS Processing
 
 Workflow Automation
 
-# Data & NLP
+### Data & NLP
 NLP
 
 Embeddings
@@ -76,7 +76,7 @@ Text Processing
 
 Information Retrieval
 
-# Recent Projects
+### Recent Projects
 Multi-Agent AI Diagnostics System
 
 Multi-Domain RAG Platform
