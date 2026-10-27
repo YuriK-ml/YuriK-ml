@@ -1,87 +1,54 @@
 # Yuri K
 
-AI Systems Engineer | GenAI Python Developer | LLM | RAG | AI Agents
+Enterprise IT | Project Management Systems | Systems Analysis | Applied AI (LLM, RAG, Agents)
 
 ## About me
 
-I design and develop AI-powered applications using Large Language Models, Retrieval-Augmented Generation (RAG), AI Agents, and Python.
+Experienced IT professional with a background in project management, systems analysis, and implementation of enterprise information systems.
 
-My focus is building practical AI systems that combine modern LLMs with business processes, automation, analytics, and intelligent user interactions.
+I work at the intersection of business processes, enterprise systems, integrations, and technology delivery — from requirements and solution design to implementation and adoption.
 
-## Main interests:
+In recent years, I have been actively working with applied AI technologies, including LLMs, RAG, AI agents, and automation. I develop hands-on AI projects using Python, APIs, and modern AI platforms, combining my enterprise IT experience with practical technical implementation.
 
-Large Language Models (LLM)
+This GitHub contains my applied AI/ML projects, prototypes, and working applications.
 
-Retrieval-Augmented Generation (RAG)
+## Areas of focus
 
-AI Agents & Multi-Agent Systems
+- Enterprise systems and project management automation
+- Systems analysis and integration
+- Applied AI and LLM-based solutions
+- RAG and knowledge-based systems
+- AI agents and workflow automation
+- Technical prototyping and implementation
 
-AI Workflow Automation
+## Technologies
 
-FastAPI Backends
+**Applied AI:** OpenAI API, Gemini API, LLM, RAG, embeddings, multi-agent workflows
 
-Prompt Engineering
+**Development & Integration:** Python, FastAPI, REST API, SQL, SQLite/PostgreSQL, n8n, Telegram Bot API
 
-Generative AI Applications
+**ML & Computer Vision:** TensorFlow/Keras, MobileNetV2, OpenCV
 
-Knowledge Management Systems
+**Tools:** Git/GitHub, API integrations, workflow automation
 
-AI Product Prototyping
+## Selected Projects
 
-## Tech stack
+### Multi-Agent AI Diagnostics Platform
+Multi-agent platform for user diagnostics, project recommendations, and guided AI workflows.  
+Python · FastAPI · OpenAI API · Multi-Agent Workflow · REST API
 
-### AI & Machine Learning
-OpenAI API
+### AI News Platform
+Automated system for RSS ingestion, LLM-based editorial processing, and Telegram publishing.  
+Python · OpenAI API · SQLite · RSS · Telegram Bot API
 
-Gemini API
+### Anna English AI
+Production web platform for an English teacher with online testing, external service integrations, and AI-powered learning tools.  
+HTML · CSS · JavaScript · PHP · OpenAI API · Telegram Bot API
 
-LangChain
+### Multi-Head RAG
+Corporate question-answering prototype using independent knowledge domains and parallel retrieval.  
+Python · RAG · SentenceTransformers · FAISS · LLM
 
-ChromaDB
-
-Hugging Face
-
-RAG Architectures
-
-Multi-Agent Systems
-
-### Backend Development
-Python
-
-FastAPI
-
-SQLite
-
-PostgreSQL
-
-REST API
-
-### AI Automation & Integration
-n8n
-
-Telegram Bot API
-
-RSS Processing
-
-Workflow Automation
-
-### Data & NLP
-NLP
-
-Embeddings
-
-Vector Databases
-
-Text Processing
-
-Information Retrieval
-
-### Recent Projects
-Multi-Agent AI Diagnostics System
-
-Multi-Domain RAG Platform
-
-AI Football News Bot
-
-AI-Powered Telegram Assistants
-FastAPI-based AI Services
+### Driver Drowsiness Detection
+Computer vision system for detecting driver drowsiness from video streams.  
+Python · TensorFlow/Keras · MobileNetV2 · OpenCV
